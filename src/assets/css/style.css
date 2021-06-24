@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  margin-top: 10px;
+  text-align: center;
+}
+
+footer {
+  position: absolute;
+  width: 99%;
+  bottom: 10px;
+  text-align: center;
+}

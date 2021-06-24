@@ -1,0 +1,15 @@
+{
+  "name": "html-sergey-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sergey --root=./src/ --output=./../public/",
+    "start": "sergey --watch --root=./src/ --output=./../public/"
+  },
+  "keywords": [],
+  "author": "sebastian.golian@gmail.com",
+  "dependencies": {
+    "sergey": "0.0.13"
+  }
+}
